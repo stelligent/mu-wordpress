@@ -92,3 +92,4 @@ service:
       #### The environment name to deploy to for production
       #### (default: production)
       environment: prod
+      
