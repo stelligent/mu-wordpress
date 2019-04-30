@@ -82,7 +82,7 @@ service:
 
       #### The GitHub repo slug or CodeCommit repo name to build
       #### (default: none)
-      repo: mullinsr/mu-wordpress
+      repo: stelligent/mu-wordpress
 
     acceptance:
       #### The environment name to deploy to for testing
